@@ -37,8 +37,8 @@ const About: React.FC = () => {
   },
   {
   name: 'Kritika Tandy',
-  role: 'Research Analyst & Documentation Ninja',
-  expertise: 'Market Insights, Technical Research, Report Structuring',
+  role: 'Research Analyst',
+  expertise: 'Market Insights,Report Structuring',
   image: 'https://media.licdn.com/dms/image/v2/D5603AQGsMk0J2Zp35g/profile-displayphoto-shrink_400_400/B56ZdSw6uIHEAk-/0/1749440250742?e=1756944000&v=beta&t=LhY13wtcencDJYMghrwDkxooFcLqFRQeNRNZ16srEGk', // placeholder
   linkedin: '#',
   github: '#'
@@ -125,7 +125,7 @@ const About: React.FC = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="flex flex-wrap justify-center gap-8">
             {team.map((member, index) => (
               <div key={index} className="group bg-gray-800/50 backdrop-blur-sm p-6 rounded-xl border border-gray-700/50 hover:border-orange-500/50 transition-all duration-300 text-center hover:transform hover:scale-105">
                 <div className="mb-6">
