@@ -7,7 +7,7 @@ const About: React.FC = () => {
     name: 'P. Mohan Reddy',
     role: 'System Architect & API Alchemist',
     expertise: 'Django, REST APIs, Database Sorcery',
-    image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop', // you can replace this with your actual pic link later
+    image: 'https://i.postimg.cc/KYT6MwvF/IMG-20250703-175755.jpg',
     linkedin: '#',
     github: 'https://github.com/KidFromKonoha'
   },
@@ -15,7 +15,7 @@ const About: React.FC = () => {
     name: 'Soumya Safallya Sahoo',
     role: 'Vision Model Wrangler',
     expertise: 'AI/ML, Deep Learning, Object Detection',
-    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQHDIQszDvGgqA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707414238068?e=1756944000&v=beta&t=UYsrdt_cpOB5sOJnMpRjxXxHLt09fM9xyUlQgZzpQzs',
     linkedin: '#',
     github: '#'
   },
@@ -23,7 +23,7 @@ const About: React.FC = () => {
     name: 'Samikhya Panigrahi',
     role: 'Inference Pipeline Strategist',
     expertise: 'YOLOv7, Semantic Segmentation, MLOps',
-    image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQEV1ssIES9HFQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711384366109?e=1756944000&v=beta&t=nHU0XdbXZ3nAuyKRuBEIlXmLOPxlNCjMYdTlJVcUZOE',
     linkedin: '#',
     github: '#'
   },
@@ -31,7 +31,7 @@ const About: React.FC = () => {
     name: 'Mansi Maharana',
     role: 'Frontend Virtuoso',
     expertise: 'HTML, CSS, JS, UI/UX Design (Figma)',
-    image: 'https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
+    image: 'https://media.licdn.com/dms/image/v2/D5603AQEobBRT4u6D_A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711265574537?e=1756944000&v=beta&t=GUZzJoJowI57Hro0l4KYu1Ib0RH0ZD6xou0C2AuGAWE',
     linkedin: '#',
     github: '#'
   }

@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/KidFromKonoha"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-orange-400 transition-colors duration-300"
@@ -76,8 +76,8 @@ const Footer: React.FC = () => {
             <h3 className="text-white font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
               <li>contact@visiontrack.ai</li>
-              <li>+91 98765 43210</li>
-              <li>Mumbai, India</li>
+              <li>+91 7873784400</li>
+              <li>Odisha, India</li>
             </ul>
           </div>
         </div>
