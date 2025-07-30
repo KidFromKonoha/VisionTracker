@@ -34,7 +34,15 @@ const About: React.FC = () => {
     image: 'https://media.licdn.com/dms/image/v2/D5603AQEobBRT4u6D_A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711265574537?e=1756944000&v=beta&t=GUZzJoJowI57Hro0l4KYu1Ib0RH0ZD6xou0C2AuGAWE',
     linkedin: '#',
     github: '#'
-  }
+  },
+  {
+  name: 'Kritika Tandy',
+  role: 'Research Analyst & Documentation Ninja',
+  expertise: 'Market Insights, Technical Research, Report Structuring',
+  image: 'https://media.licdn.com/dms/image/v2/D5603AQGsMk0J2Zp35g/profile-displayphoto-shrink_400_400/B56ZdSw6uIHEAk-/0/1749440250742?e=1756944000&v=beta&t=LhY13wtcencDJYMghrwDkxooFcLqFRQeNRNZ16srEGk', // placeholder
+  linkedin: '#',
+  github: '#'
+}
 ];
 
 
