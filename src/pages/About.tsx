@@ -3,39 +3,40 @@ import { Github, Linkedin, Mail, Award, Target, Users, Zap, Eye, Shield, BarChar
 
 const About: React.FC = () => {
   const team = [
-    {
-      name: 'Dr. Rajesh Kumar',
-      role: 'Lead AI Engineer',
-      expertise: 'Computer Vision & Deep Learning',
-      image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
-      linkedin: '#',
-      github: '#'
-    },
-    {
-      name: 'Priya Sharma',
-      role: 'Product Manager',
-      expertise: 'Traffic Engineering & Product Strategy',
-      image: 'https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
-      linkedin: '#',
-      github: '#'
-    },
-    {
-      name: 'Arjun Patel',
-      role: 'Full Stack Developer',
-      expertise: 'Web Development & System Architecture',
-      image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
-      linkedin: '#',
-      github: '#'
-    },
-    {
-      name: 'Dr. Meera Reddy',
-      role: 'Data Scientist',
-      expertise: 'Machine Learning & Analytics',
-      image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
-      linkedin: '#',
-      github: '#'
-    }
-  ];
+  {
+    name: 'P. Mohan Reddy',
+    role: 'System Architect & API Alchemist',
+    expertise: 'Django, REST APIs, Database Sorcery',
+    image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop', // you can replace this with your actual pic link later
+    linkedin: '#',
+    github: 'https://github.com/KidFromKonoha'
+  },
+  {
+    name: 'Soumya Safallya Sahoo',
+    role: 'Vision Model Wrangler',
+    expertise: 'AI/ML, Deep Learning, Object Detection',
+    image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
+    linkedin: '#',
+    github: '#'
+  },
+  {
+    name: 'Samikhya Panigrahi',
+    role: 'Inference Pipeline Strategist',
+    expertise: 'YOLOv7, Semantic Segmentation, MLOps',
+    image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
+    linkedin: '#',
+    github: '#'
+  },
+  {
+    name: 'Mansi Maharana',
+    role: 'Frontend Virtuoso',
+    expertise: 'HTML, CSS, JS, UI/UX Design (Figma)',
+    image: 'https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop',
+    linkedin: '#',
+    github: '#'
+  }
+];
+
 
   const techStack = [
     { name: 'Python', icon: Code, category: 'AI/ML' },
